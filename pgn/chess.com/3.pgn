@@ -1,0 +1,923 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.13"]
+[Round "-"]
+[White "BoayJS"]
+[Black "cmarcio"]
+[Result "0-1"]
+[WhiteElo "942"]
+[BlackElo "953"]
+[TimeControl "600"]
+[EndTime "18:25:41 PDT"]
+[Termination "cmarcio won on time"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. d4 Bg4 5. Nxe5 Nxe5 6. Be2 Bxe2 7. Qxe2 Ng6 8.
+O-O Nf6 9. Nc3 Nf4 10. Bxf4 Be7 11. e5 Nd7 12. Nd5 O-O 13. e6 fxe6 14. Qxe6+ Kh8
+15. Be3 Bh4 16. Qg4 Nf6 17. Nxf6 Qxf6 18. d5 b6 19. Bd4 Qh6 20. Bxg7+ Qxg7 21.
+Qxg7+ Kxg7 22. Rfe1 Bf6 23. Re6 a5 24. Rae1 Rae8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.13"]
+[Round "-"]
+[White "BoayJS"]
+[Black "David_BR"]
+[Result "0-1"]
+[WhiteElo "934"]
+[BlackElo "940"]
+[TimeControl "600"]
+[EndTime "18:43:46 PDT"]
+[Termination "David_BR won on time"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Bc4 a6 6. Nf3 b5 7. Bb3 Bb7 8. O-O
+Nf6 9. e5 Ng4 10. Nd4 Nxe5 11. Bf4 Nc4 12. Bxc4 bxc4 13. Qa4 Bc5 14. Qxc4 d6 15.
+Rfe1 O-O 16. Nxe6 fxe6 17. Qxe6+ Kh8 18. Re4 Bxe4 19. Nxe4 Nc6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.13"]
+[Round "-"]
+[White "BoayJS"]
+[Black "CURY002"]
+[Result "0-1"]
+[WhiteElo "926"]
+[BlackElo "930"]
+[TimeControl "600"]
+[EndTime "18:59:05 PDT"]
+[Termination "CURY002 won on time"]
+
+1. e4 g6 2. d4 Bg7 3. f4 b6 4. c4 Bb7 5. e5 d6 6. Nc3 dxe5 7. fxe5 e6 8. Nf3 f6
+9. exf6 Bxf6 10. d5 exd5 11. cxd5 Bxc3+ 12. bxc3 Bxd5 13. Bb5+ c6 14. Ba4 Bxf3
+15. Qxf3 Ne7 16. O-O Nf5 17. Bxc6+ Nxc6 18. Qxc6+ Kf7 19. Qc4+ Ke8 20. Bb2 Rc8
+21. Qe4+ Qe7 22. Rfe1 Qxe4 23. Rxe4+ Kf7 24. c4 Rhe8 25. Rae1 Nd6 26. Rf1+ Kg8
+27. Rxe8+ Rxe8 28. Rf6 Nxc4 29. Bc3 h5 30. Rxg6+ Kf7 31. Rf6+ Kg8 32. Rg6+ Kh7
+33. Rg7+ Kh6 34. Rg6+ Kxg6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.13"]
+[Round "-"]
+[White "mehdjam"]
+[Black "BoayJS"]
+[Result "1-0"]
+[WhiteElo "958"]
+[BlackElo "919"]
+[TimeControl "600"]
+[EndTime "23:41:06 PDT"]
+[Termination "mehdjam won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. Nxe5 Qe7 6. d4 d5 7. exd5 cxd5 8.
+O-O Bf5 9. Re1 O-O-O 10. Nc6 Qd6 11. Nxd8 Qxd8 12. Nc3 Nf6 13. Bg5 Be7 14. Bxf6
+Bxf6 15. Qf3 Bxc2 16. Nxd5 Bxd4 17. Qg4+ Kb8 18. Qxd4 c6 19. Ne7 Qc7 20. Rac1
+Bg6 21. Rxc6 Qa5 22. Qe5+ Qxe5 23. Rxe5 Re8 24. g3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.13"]
+[Round "-"]
+[White "hoosierdawg"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "933"]
+[BlackElo "928"]
+[TimeControl "600"]
+[EndTime "3:43:10 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e6 2. Qf3 d5 3. exd5 exd5 4. c4 d4 5. b3 Nc6 6. a3 Nf6 7. Qe2+ Be7 8. h3
+O-O 9. Qd3 Be6 10. Be2 Bd6 11. b4 Bf4 12. c5 Ne5 13. Qc2 d3 14. Qa4 dxe2 15.
+Nxe2 Nd3+ 16. Kd1 Nxf2+ 17. Kc2 Qd3+ 18. Kb2 Be5+ 19. Nbc3 Bxc3+ 20. Nxc3 Nxh1
+21. Qc2 Qc4 22. Qb3 Qxb3# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.13"]
+[Round "-"]
+[White "bayy101"]
+[Black "BoayJS"]
+[Result "1-0"]
+[WhiteElo "949"]
+[BlackElo "920"]
+[TimeControl "600"]
+[EndTime "4:07:41 PDT"]
+[Termination "bayy101 won on time"]
+
+1. d3 e5 2. e4 d5 3. Nc3 d4 4. Nb1 Bb4+ 5. Bd2 Bc5 6. Nf3 f6 7. g4 Bxg4 8. h3
+Bh5 9. b4 Bb6 10. Na3 a5 11. Nc4 axb4 12. Nxb6 cxb6 13. Bxb4 Nc6 14. a3 Nge7 15.
+Be2 O-O 16. Rg1 Nxb4 17. axb4 Rxa1 18. Qxa1 Nc6 19. Qa2+ Bf7 20. Qa3 Qd6 21. Nd2
+Nxb4 22. Qb2 Na6 23. Nc4 Bxc4 24. dxc4 Rc8 25. h4 Qb4+ 26. Qxb4 Nxb4 27. Kd2 b5
+28. Rb1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.13"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Smusisha"]
+[Result "1-0"]
+[WhiteElo "928"]
+[BlackElo "898"]
+[TimeControl "600"]
+[EndTime "4:21:22 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 Nxe4 5. Nxe5 Qe7 6. Bxf7+ Kd8 7. Nxc6+ bxc6
+8. Bb3 d5 9. O-O g5 10. f4 gxf4 11. Bxf4 c5 12. dxc5 c6 13. Bd6 Qg7 14. Qh5 Qxb2
+15. Be5 Qxc2 16. Bxc2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "BoayJS"]
+[Black "KlowaR"]
+[Result "1-0"]
+[WhiteElo "936"]
+[BlackElo "907"]
+[TimeControl "600"]
+[EndTime "21:32:55 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 d5 5. Nxd5 Nxd5 6. Bxd5 Nd4 7. Nxe5 c6 8.
+Nxf7 Qf6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Gudgee"]
+[Result "1-0"]
+[WhiteElo "944"]
+[BlackElo "926"]
+[TimeControl "600"]
+[EndTime "21:45:50 PDT"]
+[Termination "BoayJS won - game abandoned"]
+
+1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. f4 f6 5. Qe2 d6 6. g4 Ng7 7. exf6 Ne6 8. d5 Nxf4
+9. Qe4 g5 10. h4 Bxg4 11. hxg5 Qc8 12. Qxf4 Bf5 13. Bh3 Bxc2 14. Bxc8 Nd7 15.
+Bxd7+ Kxd7 16. Qf5+ Kd8 17. Qxc2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "mumshabeer"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "957"]
+[BlackElo "953"]
+[TimeControl "600"]
+[EndTime "0:22:41 PDT"]
+[Termination "BoayJS won - game abandoned"]
+
+1. e4 e5 2. Qf3 Nf6 3. Bc4 Nc6 4. c3 Bc5 5. Nh3 d6 6. Ng5 Be6 7. Bxe6 fxe6 8.
+Nxe6 Qd7 9. Ng5 O-O-O 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "amrostat"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "935"]
+[BlackElo "961"]
+[TimeControl "600"]
+[EndTime "0:31:45 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Bg5 d6 6. Bxf6 Qxf6 7. Bb5 Bd7 8.
+c3 O-O-O 9. Qf3 Qg6 10. Bd3 Ne5 11. Qg3 Qxg3 12. hxg3 Nxd3+ 13. Ke2 Nxb2 14. Nd2
+Bb5+ 15. Ke3 Nc4+ 16. Nxc4 Bxc4 17. Nf3 Re8 18. Ng5 f5 19. Kd4 Bg8 20. Nf7 Bxf7
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Rinial_K"]
+[Result "1-0"]
+[WhiteElo "969"]
+[BlackElo "933"]
+[TimeControl "600"]
+[EndTime "0:38:52 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 Qf6 4. Bc4 c6 5. d3 Nh6 6. Na4 Na6 7. Nxc5 Nxc5 8.
+Be3 d6 9. d4 exd4 10. Bxd4 Qg6 11. g3 Qxe4+ 12. Qe2 Bg4 13. Bxc5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Papas_dP"]
+[Result "1-0"]
+[WhiteElo "977"]
+[BlackElo "973"]
+[TimeControl "600"]
+[EndTime "0:52:06 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e5 2. Nc3 d6 3. Bc4 Nf6 4. Nd5 c6 5. Nxf6+ Qxf6 6. Qf3 d5 7. exd5 cxd5 8.
+Qxd5 Nc6 9. Nf3 Be6 10. Qb5 a6 11. Qxb7 Rc8 12. Bxa6 Bc5 13. Bb5 Bd7 14. d4 exd4
+15. Bg5 Qe6+ 16. Kd1 h6 17. Re1 Ne5 18. Rxe5 Qxe5 19. Nxe5 hxg5 20. Qxd7+ Kf8
+21. Qxc8+ Ke7 22. Qxc5+ Kf6 23. Ng4+ Kg6 24. Qxd4 f5 25. Ne5+ Kh5 26. Bd7 f4 27.
+Bg4+ Kh6 28. Qd6+ g6 29. Qxg6# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "BoayJS"]
+[Black "useri2723"]
+[Result "1-0"]
+[WhiteElo "985"]
+[BlackElo "989"]
+[TimeControl "600"]
+[EndTime "6:26:09 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. Nc3 Qf6 5. d3 Bxf3 6. Qxf3 Qxf3 7. gxf3 Nf6 8.
+Be3 Nc6 9. Nd5 Nxd5 10. Bxd5 Be7 11. O-O-O O-O 12. Rhg1 Bf6 13. f4 exf4 14. Bxf4
+Rab8 15. Rde1 Nd4 16. Be3 Nf3 17. Bxa7 Rbd8 18. e5 Nxg1 19. exf6 Nf3 20. Bxf3
+gxf6 21. Rg1+ Kh8 22. Bd4 Rg8 23. Bxf6+ Rg7 24. Bxg7+ Kg8 25. Bf6+ Kf8 26. Bxd8
+Ke8 27. Bxc7 Kd7 28. Ba5 Ke6 29. Bxb7 Ke5 30. Rg5+ Kf4 31. Rb5 Kg4 32. Bd2 Kh3
+33. Rh5+ Kg4 34. Rd5 Kh3 35. Rxd6 Kxh2 36. Bf4+ Kg1 37. Rd7 Kxf2 38. Rxf7 h5 39.
+Bd2+ Kg3 40. Rg7+ Kf2 41. Rg2+ Kf1 42. Bf3 h4 43. Be3 Ke1 44. Rg1# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "Modulator81"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "972"]
+[BlackElo "993"]
+[TimeControl "600"]
+[EndTime "6:35:26 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7. Ke3 Qh4
+8. g3 Qf6 9. Nxh8 Qf2+ 10. Kxe4 d5+ 11. Bxd5 Bf5# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "Yomi88"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "962"]
+[BlackElo "1000"]
+[TimeControl "600"]
+[EndTime "6:55:23 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Bg5 h6 6. Bxf6 Qxf6 7. O-O d6 8. c3
+Bg4 9. b4 Bb6 10. Bd5 Bd7 11. Nbd2 O-O-O 12. b5 Ne7 13. d4 Nxd5 14. exd5 Bxb5
+15. Qb3 Bxf1 16. Rxf1 exd4 17. Nxd4 Bxd4 18. cxd4 Qxd4 19. Rd1 Qf4 20. Nc4 Rhe8
+21. Na5 b6 22. Nc6 Rd7 23. Nxa7+ Kb7 24. Nc6 Qe5 25. Nxe5 Rxe5 26. h3 c6 27.
+dxc6+ Kxc6 28. Rc1+ Rc5 29. Qa4+ b5 30. Qa6+ Kd5 31. Rxc5+ Kxc5 32. Qa3+ Kb6 33.
+Qe3+ Ka5 34. Qc3+ b4 35. Qxg7 Ka4 36. Qxh6 Ka3 37. Qc1+ Kxa2 38. Qc2+ Ka3 39. g4
+b3 40. Qc1+ b2 41. Qb1 d5 42. h4 d4 43. Qd3+ Ka2 44. Qa6+ Kb3 45. Qb5+ Kc2 46.
+Qxd7 b1=Q+ 47. Kg2 d3 48. Qc6+ Kb2 49. Qb5+ Ka1 50. Qa4+ Qa2 51. Qd1+ Qb1 52.
+Qxd3 Qxd3 53. h5 Kb1 54. g5 Kc1 55. g6 fxg6 56. h6 g5 57. f3 Qh7 58. Kg3 Qxh6
+59. Kg4 Qh4+ 60. Kf5 Kd2 61. Kg6 g4 62. fxg4 Qxg4+ 63. Kf6 Ke3 64. Ke7 Qf5 65.
+Kd8 Qe6 66. Kc7 Qe5+ 67. Kb6 Qd5 68. Kc7 Qe6 69. Kb7 Qd6 70. Kc8 Qe7 71. Kb8 Qd7
+72. Ka8 Kd4 73. Kb8 Kc5 74. Ka8 Kb6 75. Kb8 Qb7# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.16"]
+[Round "-"]
+[White "TheOrangeOfLies"]
+[Black "BoayJS"]
+[Result "1-0"]
+[WhiteElo "1005"]
+[BlackElo "992"]
+[TimeControl "600"]
+[EndTime "23:39:29 PDT"]
+[Termination "TheOrangeOfLies won on time"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 Nf6 5. g4 Bg7 6. g5 Nd4 7. Qd3 Ng4 8. f3
+Qxg5 9. fxg4 Qxg4 10. c3 Nc6 11. Na3 Qh4+ 12. Qg3 Qxe4+ 13. Ne2 Qxh1+ 14. Kf2 e4
+15. Qf4 O-O 16. Nd4 Nxd4 17. cxd4 Bxd4+ 18. Ke2 d5 19. Bxd5 Qg2+ 20. Kd1 Bg4+
+21. Kc2 c6 22. Bxe4 Bf5 23. Bxf5 gxf5 24. Qxf5 Qxh2 25. Nc4 Bb6 26. b3 c5 27.
+Bb2 Rad8 28. Qf6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.16"]
+[Round "-"]
+[White "BoayJS"]
+[Black "yohantas"]
+[Result "1-0"]
+[WhiteElo "1000"]
+[BlackElo "1002"]
+[TimeControl "600"]
+[EndTime "0:00:12 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nc6 4. Nxc6 dxc6 5. d3 Bc5 6. Be3 Bxe3 7. fxe3 g6 8.
+Nc3 Nh5 9. g3 O-O 10. Qe2 a5 11. O-O-O Nf6 12. e5 Bg4 13. Qf2 Bxd1 14. Nxd1 Ng4
+15. Qf4 h5 16. h3 g5 17. Qf5 Nh6 18. Qf3 g4 19. hxg4 hxg4 20. Qf4 f6 21. Qxh6
+Kf7 22. exf6 Ke8 23. Nf2 Rxf6 24. Qh8+ Rf8 25. Qh5+ Rf7 26. Nxg4 Qd7 27. Ne5 Qe7
+28. Nxf7 Qxe3+ 29. Kd1 Kd7 30. Ne5+ Kd6 31. Nc4+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.16"]
+[Round "-"]
+[White "BoayJS"]
+[Black "pulkitupchess"]
+[Result "0-1"]
+[WhiteElo "992"]
+[BlackElo "1030"]
+[TimeControl "600"]
+[EndTime "0:32:04 PDT"]
+[Termination "pulkitupchess won on time"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qf3 Nf6 5. d3 d6 6. Bg5 Bg4 7. Qg3 Nd4 8. Bxf6
+Qxf6 9. Qxg4 Nxc2+ 10. Kd1 Nxa1 11. Nd5 Qd8 12. Qxg7 Rf8 13. Qxh7 Qg5 14. g3 Bb6
+15. f4 Qg4+ 16. Ne2 Qf3 17. Rf1 Qxf1+ 18. Kd2 Be3+ 19. Nxe3 Qf2 20. Ng4 Qb6 21.
+Nf6+ Kd8 22. b3 Qa5+ 23. Kd1 Qxa2 24. Ke1 Nc2+ 25. Kf2 Nd4 26. Bxf7 Nxe2 27. Ke3
+Ng1 28. fxe5 Qe2+ 29. Kf4 Qf3+ 30. Kg5 Qxd3 31. Be6 Qb5 32. Qg7 Nf3+ 33. Kg4
+Nxh2+ 34. Kh3 Nf3 35. Qd7+ Qxd7 36. Bxd7 Nxe5 37. Nd5 Nxd7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.16"]
+[Round "-"]
+[White "BoayJS"]
+[Black "44854ivru"]
+[Result "1-0"]
+[WhiteElo "1000"]
+[BlackElo "987"]
+[TimeControl "600"]
+[EndTime "0:44:42 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Qe2 Qxe2+ 5. Bxe2 Nc6 6. Nf3 Nb4 7. Bd3 Bg4
+8. Ne5 Nh6 9. Nxg4 Nxg4 10. Bf5 Nf6 11. d4 e6 12. Bd3 Nxd3+ 13. cxd3 Nd5 14.
+Nxd5 exd5 15. Bg5 Bb4+ 16. Bd2 Bxd2+ 17. Kxd2 O-O 18. Rae1 Rae8 19. Rxe8 Rxe8
+20. Rc1 c6 21. f4 f5 22. b4 a6 23. a4 g6 24. b5 axb5 25. axb5 cxb5 26. Rc5 Rd8
+27. Rxb5 Rd7 28. Kc3 Kg7 29. Kb4 h5 30. h4 Kf7 31. Ka5 Ke6 32. Rb6+ Ke7 33. Rxg6
+Rc7 34. Rg7+ Kd6 35. Rxc7 Kxc7 36. Kb5 b6 37. g3 Kb7 38. Kb4 Kc6 39. Kc3 b5 40.
+Kb3 Kb6 41. Kb4 Kc6 42. Ka5 b4 43. Kxb4 Kd6 44. Kb5 Ke6 45. Kc6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.16"]
+[Round "-"]
+[White "Ba123ba"]
+[Black "BoayJS"]
+[Result "1-0"]
+[WhiteElo "1012"]
+[BlackElo "992"]
+[TimeControl "600"]
+[EndTime "2:49:08 PDT"]
+[Termination "Ba123ba won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Nxe4 5. Re1 d5 6. Bb5 f6 7. d4 Bd7 8. dxe5
+Nxe5 9. Bxd7+ Nxd7 10. Nd4 Bc5 11. Qh5+ g6 12. Qxd5 f5 13. Ne6 Qf6 14. Nxc7+ Kd8
+15. Nxa8 Bxf2+ 16. Kf1 Bxe1 17. Kxe1 Re8 18. Kf1 Nc5 19. Nc3 Qh4 20. g3 Qxh2 21.
+Bf4 Qh3+ 22. Kf2 Ne4+ 23. Nxe4 Rxe4 24. Qg8+ Re8 25. Qc4 Ne5 26. Qc7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.16"]
+[Round "-"]
+[White "Jay1kay"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "1003"]
+[BlackElo "1000"]
+[TimeControl "600"]
+[EndTime "2:55:57 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. Ng5 d5 6. exd5 Nxd5 7. Bxd5 Qxg5 8.
+Ne4 Qxg2 9. Ke2 Bg4+ 10. Kd3 Bxd1 11. Rxd1 Qf3+ 12. Kc4 Qxd1 13. Kxc5 Qxc2+ 14.
+Nc3 Qg6 15. d3 Ne7 16. Bxb7 Rb8 17. Bc6+ Qxc6# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "bayraktar26"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "993"]
+[BlackElo "1008"]
+[TimeControl "600"]
+[EndTime "10:33:13 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e3 d5 2. c3 Nc6 3. Qb3 Nf6 4. h4 e5 5. g3 Bd6 6. Nh3 O-O 7. Bg2 Bf5 8. Qxb7
+Qd7 9. Qa6 Ne4 10. c4 Nc5 11. Qb5 a6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "BoayJS"]
+[Black "HatkeAhnig"]
+[Result "1-0"]
+[WhiteElo "1016"]
+[BlackElo "1012"]
+[TimeControl "600"]
+[EndTime "10:37:22 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Bc5 4. a3 Nh6 5. Bxh6 gxh6 6. Nc3 d6 7. Ne4 dxe5 8.
+Qxd8+ Nxd8 9. Nxc5 Bg4 10. Nxe5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "bosperty"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "998"]
+[BlackElo "1024"]
+[TimeControl "600"]
+[EndTime "10:44:27 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 c5 2. Bc4 e6 3. Nc3 Nc6 4. d3 Nf6 5. f4 d5 6. exd5 exd5 7. Bb5 Be7 8. Nf3
+O-O 9. O-O Nd4 10. Nxd4 cxd4 11. Ne2 Qa5 12. Nxd4 Bc5 13. Be3 Ng4 14. Qd2 Qxd2
+15. Bxd2 Bxd4+ 16. Kh1 Nf2+ 17. Kg1 Ne4+ 18. Kh1 Nxd2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "slyhuman"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "999"]
+[BlackElo "1032"]
+[TimeControl "600"]
+[EndTime "10:51:53 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. d4 Nf6 2. e3 g6 3. f3 d5 4. Nc3 Bg7 5. e4 O-O 6. e5 Nfd7 7. Nh3 c5 8. Nxd5
+cxd4 9. e6 Qa5+ 10. b4 Qxd5 11. Nf4 Qe5+ 12. Be2 d3 13. exf7+ Rxf7 14. Qxd3 Qxa1
+15. Kf2 Bd4+ 16. Kg3 Be5 17. Qc4 Nb6 18. Be3 Qxh1 19. Qe4 Bxf4+ 20. Bxf4 Qe1#
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "BoayJS"]
+[Black "wei5566"]
+[Result "1-0"]
+[WhiteElo "1040"]
+[BlackElo "1013"]
+[TimeControl "600"]
+[EndTime "11:01:00 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. Nf3 e6 2. d4 d5 3. c4 c6 4. e3 Nf6 5. Bd3 Be7 6. O-O O-O 7. Nc3 Nbd7 8. e4
+Nb6 9. e5 Ne8 10. b3 f6 11. exf6 Nxf6 12. c5 Nbd7 13. Qc2 b6 14. Ng5 g6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "Stryderrr3"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "1026"]
+[BlackElo "1048"]
+[TimeControl "600"]
+[EndTime "21:22:34 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nc6 4. Qf3 Bc5 5. d3 h6 6. g4 d5 7. exd5 Bxg4 8. Qg2
+Nd4 9. Na4 Bb4+ 10. Kf1 Bf3 11. Qxg7 Rg8 12. Qxh6 Bg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "BoayJS"]
+[Black "ch3ssnotcheckers"]
+[Result "0-1"]
+[WhiteElo "1040"]
+[BlackElo "1053"]
+[TimeControl "600"]
+[EndTime "21:40:38 PDT"]
+[Termination "ch3ssnotcheckers won on time"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 g6 5. d4 d6 6. d5 Ne7 7. Bg5 Bg7 8. Qd2
+O-O 9. Bh6 Ne8 10. O-O-O a6 11. Bxg7 Kxg7 12. h4 h6 13. h5 g5 14. Nxg5 hxg5 15.
+Qxg5+ Kh7 16. h6 Rg8 17. Qf6 Nxf6 18. Bd3 Rxg2 19. f4 Bg4 20. Rdg1 Rxg1+ 21.
+Rxg1 Qd7 22. f5 Rg8 23. Rh1 b5 24. Nd1 Bxd1 25. Kxd1 b4 26. Bxa6 Nxe4 27. Bd3
+Nf2+ 28. Ke2 Nxh1 29. f6+ Kxh6 30. fxe7 Qxe7 31. Be4 Qh4 32. Bf3 Ng3+ 33. Ke3
+Qf4+ 34. Kf2 Ne4+ 35. Ke2 Qh2+ 36. Ke3 Nc5 37. b3 Rg3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Husniwa"]
+[Result "1-0"]
+[WhiteElo "1048"]
+[BlackElo "1026"]
+[TimeControl "600"]
+[EndTime "21:41:15 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c6 4. d4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Midence-EJ"]
+[Result "1-0"]
+[WhiteElo "1055"]
+[BlackElo "1019"]
+[TimeControl "600"]
+[EndTime "21:44:43 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. Nf3 Bb4 5. Bd3 Qf6 6. e5 Qe7 7. Bd2 d6 8. exd6
+Qxd6 9. Nb5 Bxd2+ 10. Qxd2 Qd5 11. Nxc7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "MightyBread"]
+[Black "BoayJS"]
+[Result "1-0"]
+[WhiteElo "1076"]
+[BlackElo "1047"]
+[TimeControl "600"]
+[EndTime "22:02:39 PDT"]
+[Termination "MightyBread won on time"]
+
+1. d4 d5 2. e4 dxe4 3. f3 exf3 4. Qxf3 Nc6 5. Nc3 Nxd4 6. Qf2 e5 7. Bc4 Nf6 8.
+Bg5 h6 9. Bh4 Bc5 10. O-O-O Nb3+ 11. axb3 Qxd1+ 12. Nxd1 Bxf2 13. Nxf2 O-O 14.
+Bxf6 gxf6 15. Ne4 f5 16. Nf6+ Kg7 17. Nh5+ Kg6 18. Be2 Kh7 19. h3 Kh8 20. g4 f4
+21. Nf6 Be6 22. Nf3 Kg7 23. Nh5+ Kg6 24. Nxe5+ Kg5 25. Rf1 f6 26. Nf3+ Kg6 27.
+Nxf4+ Kf7 28. Nd4 Bd7 29. Nh5 Ke7 30. Ng7 Rf7 31. Ngf5+ Kd8 32. Nxh6 Rf8 33. h4
+c5 34. Ndf5 Re8 35. Nf7+ Kc7 36. Bc4 Rac8 37. h5 Be6 38. h6 Bxc4 39. bxc4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "Praveendhaked"]
+[Black "BoayJS"]
+[Result "1-0"]
+[WhiteElo "1062"]
+[BlackElo "1039"]
+[TimeControl "600"]
+[EndTime "22:09:00 PDT"]
+[Termination "Praveendhaked won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 Bb4 5. Bd2 exd4 6. Nd5 Bxd2+ 7. Qxd2 Nxe4
+8. Qd1 Nf6 9. Nxf6+ Qxf6 10. Nd2 O-O 11. Ne4 Re8 12. Bd3 d5 13. f3 dxe4 14. fxe4
+Qh4+ 15. g3 Rxe4+ 16. Bxe4 Qxe4+ 17. Qe2 Qxh1+ 18. Kd2 Qxa1 19. Qe8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Mefsito"]
+[Result "0-1"]
+[WhiteElo "1032"]
+[BlackElo "1068"]
+[TimeControl "600"]
+[EndTime "22:30:07 PDT"]
+[Termination "Mefsito won on time"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d6 5. Nf3 Nc6 6. Nc3 Bg7 7. d5 Ne5 8. Nxe5
+Bxe5 9. Bd2 e6 10. Qb3 b6 11. f4 Bxc3 12. Bxc3 Nf6 13. e5 dxe5 14. dxe6 Bxe6 15.
+Bc4 O-O 16. fxe5 Ne4 17. Bxe6 Qd3 18. Bd5 Qe3+ 19. Kd1 Nf2+ 20. Kc2 Nxh1 21.
+Rxh1 Qe2+ 22. Bd2 Rac8+ 23. Bc4 Qe4+ 24. Kc3 Qxe5+ 25. Kc2 Qe4+ 26. Kc3 Qxg2 27.
+Rc1 Qf3+ 28. Kc2 Qe4+ 29. Kd1 Qg4+ 30. Kc2 Qf5+ 31. Kd1 Qg4+ 32. Kc2 Qe4+ 33.
+Kd1 Qh1+ 34. Be1 Rcd8+ 35. Kc2 Qg2+ 36. Kb1 Qe4+ 37. Ka1 Qf4 38. Rd1 Rc8 39. Bd2
+Qf3 40. Rf1 Qxb3 41. Bxb3 Rc7 42. Bh6 Rfc8 43. Bxf7+ Rxf7 44. Rxf7 Kxf7 45. h4
+Rc1+ 46. Bxc1 Kf6 47. b4 Kf5 48. a4 Kg4 49. h5 Kxh5 50. a5 bxa5 51. bxa5 a6 52.
+Bd2 Kg4 53. Bc3 h5 54. Kb2 g5 55. Kb3 h4 56. Kb4 h3 57. Kc4 Kf4 58. Kc5 h2 59.
+Bd4 h1=Q 60. Kb6 Qd5 61. Kxa6 Qxd4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Smige"]
+[Result "1-0"]
+[WhiteElo "1040"]
+[BlackElo "1042"]
+[TimeControl "600"]
+[EndTime "22:34:15 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. d4 Nc6 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Nc3 Bb4 8.
+Bd2 Bxc3 9. Bxc3 f6 10. O-O-O+ Bd7 11. Be6 Ke7 12. Bxd7 Rd8 13. Bxc6 Rxd1+ 14.
+Rxd1 bxc6 15. Bb4+ Kf7 16. Rd7+ Ne7 17. Rxe7+ Kg6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "Smige"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "1034"]
+[BlackElo "1048"]
+[TimeControl "600"]
+[EndTime "22:41:09 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Bd3 d5 6. Nf3 dxe4 7. Bxe4 Qxd1+
+8. Kxd1 Nxe4 9. Be3 Bc5 10. Re1 Bd6 11. Ng5 Bf5 12. Nxe4 Bxe4 13. Nc3 Bxg2 14.
+Bf4+ Ne7 15. Nb5 Bxf4 16. Rg1 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "Bhaskararaobalaga"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "391"]
+[BlackElo "321"]
+[TimeControl "60"]
+[EndTime "23:02:19 PDT"]
+[Termination "BoayJS won on time"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Qa5 4. Bc4 Bg4 5. O-O Nc6 6. Re1 O-O-O 7. Nc3 e5 8.
+d3 Bxf3 9. Qxf3 Bc5 10. Qxf7 Nh6 11. Qxg7 Rhg8 12. Qxh6 Nd4 13. Bb3 Nxb3 14.
+cxb3 Rdf8 15. Be3 Bxe3 16. Rxe3 Kd8 17. Qh4+ Ke8 18. Qh5+ Rf7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.17"]
+[Round "-"]
+[White "masterdiabolos0807"]
+[Black "BoayJS"]
+[Result "1-0"]
+[WhiteElo "435"]
+[BlackElo "315"]
+[TimeControl "60"]
+[EndTime "23:04:46 PDT"]
+[Termination "masterdiabolos0807 won on time"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. Nc3 Qd7 5. Bf4 Nxd4 6. e3 Nc6 7. Nb5 e5 8.
+Qxd7+ Kxd7 9. Rd1+ Bd6 10. Bxe5 Nxe5 11. Nf3 Nxf3+ 12. gxf3 Nf6 13. Rg1 Re8 14.
+Rxg7 Kd8 15. Rxf7 Bg4 16. Nxd6 cxd6 17. Rxd6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "BoayJS"]
+[Black "austin6512"]
+[Result "0-1"]
+[WhiteElo "1040"]
+[BlackElo "1068"]
+[TimeControl "600"]
+[EndTime "0:53:32 PDT"]
+[Termination "austin6512 won on time"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. Bc4 h6 5. O-O Nge7 6. d4 exd4 7. Nxd4 a6 8. Nd5
+b5 9. Nxc6 Nxc6 10. Bb3 Na5 11. e5 Nxb3 12. axb3 dxe5 13. Re1 f6 14. f4 Bb7 15.
+Qh5+ Kd7 16. Qf7+ Kc8 17. Rd1 Bxd5 18. Rxd5 Qe7 19. Qg6 Qe6 20. c4 bxc4 21. bxc4
+h5 22. f5 Qc6 23. Qf7 Bc5+ 24. Kh1 Kb7 25. Rd7 Qxd7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Aalok2604"]
+[Result "0-1"]
+[WhiteElo "1032"]
+[BlackElo "1047"]
+[TimeControl "600"]
+[EndTime "1:09:24 PDT"]
+[Termination "Aalok2604 won on time"]
+
+1. e4 e5 2. Nf3 Qe7 3. Nc3 d6 4. Bb5+ c6 5. Nd5 Qd7 6. Ba4 b5 7. Bb3 cxd5 8.
+Bxd5 Nc6 9. d4 Bb7 10. dxe5 dxe5 11. Bxf7+ Kd8 12. Bg5+ Be7 13. Bxe7+ Ngxe7 14.
+Ng5 Nd4 15. c3 h6 16. cxd4 hxg5 17. dxe5 Bxe4 18. Qxd7+ Kxd7 19. e6+ Kd6 20.
+O-O-O+ Bd5 21. Kb1 Rhf8 22. Rhe1 a5 23. Bg6 Rf6 24. Be4 Rxe6 25. Bxd5 Nxd5 26.
+Rf1 a4 27. a3 Ke7 28. Rxd5 Rb8 29. Rxg5 Kf6 30. Rg3 Rbe8 31. Rf3+ Ke7 32. Re3
+Kd6 33. Rxe6+ Rxe6 34. f4 Re2 35. Rg1 Kc5 36. b4+ Kc4 37. h4 Kb3 38. f5 Kxa3 39.
+f6 gxf6 40. h5 Kxb4 41. h6 Re4 42. h7 Rh4 43. Rf1 Rxh7 44. Rxf6 Rh2 45. Rf4+ Ka5
+46. g3 b4 47. g4 Rg2 48. g5 Rxg5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "fiuhhh"]
+[Black "BoayJS"]
+[Result "1-0"]
+[WhiteElo "1054"]
+[BlackElo "1024"]
+[TimeControl "600"]
+[EndTime "1:28:39 PDT"]
+[Termination "fiuhhh won on time"]
+
+1. d4 d5 2. e3 Bf5 3. Bd3 Bg6 4. Bxg6 hxg6 5. h3 Nf6 6. f3 Nc6 7. Nc3 e5 8. dxe5
+Nxe5 9. a3 Bc5 10. b4 Bb6 11. Nge2 Nc4 12. e4 d4 13. Nb5 Ne3 14. Bxe3 dxe3 15.
+Qxd8+ Rxd8 16. O-O Rd2 17. Ned4 e2 18. Rfe1 O-O 19. Rxe2 Rxe2 20. Kf1 Bxd4 21.
+Nxd4 Rd2 22. c3 Nh5 23. Nb5 Ng3+ 24. Kg1 Rfd8 25. Nxc7 Rd1+ 26. Rxd1 Rxd1+ 27.
+Kh2 Nf1+ 28. Kg1 Ne3+ 29. Kf2 Nc4 30. Nb5 Rd2+ 31. Kg3 Ra2 32. Nxa7 Rxa3 33. Nb5
+Ra2 34. Nd4 Ne5 35. Nb5 g5 36. Nd6 Rc2 37. Nb5 Rd2 38. Nd4 Nc4 39. Nb5 Ne3 40.
+h4 Rxg2+ 41. Kh3 gxh4 42. Kxh4 f6 43. Nd6 g5+ 44. Kh3 g4+ 45. fxg4 Rxg4 46. Nxb7
+Rxe4 47. Nd6 Re6 48. Nb5 Kg7 49. Nd4 Re4 50. Kg3 f5 51. Kf3 Kg6 52. Ne6 Rxe6 53.
+Kf4 Nd5+ 54. Kf3 Nxc3 55. Kf4 Re4+ 56. Kf3 f4 57. Kg4 f3+ 58. Kg3 f2 59. Kxf2
+Rf4+ 60. Ke3 Kg5 61. Kd3 Kg4 62. Kxc3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "BoayJS"]
+[Black "perjohanblomberg"]
+[Result "0-1"]
+[WhiteElo "1016"]
+[BlackElo "1049"]
+[TimeControl "600"]
+[EndTime "1:38:59 PDT"]
+[Termination "perjohanblomberg won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 c6 7. Bf4 Qf6 8.
+e5 dxe5 9. Bxe5 Qe6 10. O-O-O Bd7 11. Bxg7 Bxg7 12. Qxg7 Qh6+ 13. Qxh6 Nxh6 14.
+Ne4 O-O 15. Rxd7 Rfe8 16. Nf6+ Kf8 17. Nxh7+ Kg7 18. Bc4 Kxh7 19. Bxf7 Nxf7 20.
+Rxf7+ Kg8 21. Rxb7 Re2 22. Rf1 a5 23. h4 Rf8 24. f4 Rxg2 25. h5 Rh2 26. Rg1+ Kh8
+27. Rgg7 Rxh5 28. Rgf7 Rd8 29. Rbd7 Re8 30. Rde7 Rd8 31. f5 Rh1+ 32. Re1 Rxe1#
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "Cengacar"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "994"]
+[BlackElo "1024"]
+[TimeControl "600"]
+[EndTime "1:49:19 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. Ng5 d5 6. exd5 Na5 7. Bb5+ c6 8.
+dxc6 Nxc6 9. a3 Be6 10. b4 Bd4 11. Bb2 Nd5 12. Nxe6 fxe6 13. Rb1 Nxc3 14. Bxc3
+Bxc3 15. dxc3 Qxd1+ 16. Rxd1 O-O 17. O-O a6 18. Bc4 Rae8 19. a4 Na7 20. Rfe1 b5
+21. axb5 axb5 22. Bb3 Nc6 23. c4 bxc4 24. Bxc4 Nxb4 25. Rxe5 Nxc2 26. Rxe6 Rxe6
+27. Bxe6+ Kh8 28. Rd2 Re8 29. Bf7 Rc8 30. Be6 Re8 31. Bd7 Re1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "BoayJS"]
+[Black "Indranu"]
+[Result "0-1"]
+[WhiteElo "1016"]
+[BlackElo "1012"]
+[TimeControl "600"]
+[EndTime "2:06:03 PDT"]
+[Termination "Indranu won on time"]
+
+1. e4 e5 2. Nf3 Qf6 3. d4 exd4 4. Nxd4 Bc5 5. Nf5 d6 6. Bd2 Bxf5 7. exf5 Qxf5 8.
+Qe2+ Ne7 9. Bc3 f6 10. g4 Bxf2+ 11. Qxf2 Qxg4 12. Be2 Qe4 13. Na3 Qxh1+ 14. Bf1
+O-O 15. O-O-O Qc6 16. Bc4+ Kh8 17. Rg1 d5 18. Bd3 Nd7 19. Qg3 g5 20. Qxg5 Rg8
+21. Qxf6+ Nxf6 22. Rxg8+ Rxg8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "BoayJS"]
+[Black "nemanjaivanov"]
+[Result "0-1"]
+[WhiteElo "1008"]
+[BlackElo "1004"]
+[TimeControl "600"]
+[EndTime "6:35:26 PDT"]
+[Termination "nemanjaivanov won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. Nc3 a6 5. d4 exd4 6. Nxd4 b5 7. Bd5 Bb7 8. Bf4
+Qe7 9. Bxc7 Qb4 10. Nxc6 Bxc6 11. Bxc6 dxc6 12. Qg4 Qxb2 13. O-O Qxc3 14. Rad1
+Be7 15. Qxg7 Ra7 16. Bd6 Bxd6 17. Qxa7 Qe5 18. Qg7 Qxh2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "partheshkapadia"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "987"]
+[BlackElo "1016"]
+[TimeControl "600"]
+[EndTime "6:46:49 PDT"]
+[Termination "BoayJS won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 e4 6. Ne5 Nxe5 7. dxe5 Qxe5 8.
+Qa4+ Bd7 9. Qd4 Qe6 10. Bc4 Qg6 11. f3 O-O-O 12. Qd5 Bh3 13. Qxf7 Qxg2 14. Be6+
+Bxe6 15. Qxe6+ Kb8 16. Rf1 exf3 17. Qc4 Re8+ 18. Kd1 Re2 19. Re1 Rxe1+ 20. Kxe1
+f2+ 21. Kd1 f1=Q+ 22. Qxf1 Qxf1+ 23. Kc2 b5 24. b4 c5 25. Bb2 Qf5+ 26. Kc1 cxb4
+27. cxb4 Qh5 28. Na3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "ambure"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "1023"]
+[BlackElo "1024"]
+[TimeControl "600"]
+[EndTime "6:54:18 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qg4 d5 5. exd5 Bxg4 6. d3 Nd4 7. Bb3 Nxb3 8.
+axb3 Qxd5 9. Ne2 Qxg2 10. Rg1 Qf3 11. Nbc3 Bb4 12. h3 Qxe2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "BoayJS"]
+[Black "miguesim"]
+[Result "1-0"]
+[WhiteElo "1031"]
+[BlackElo "984"]
+[TimeControl "600"]
+[EndTime "7:15:34 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. Nxc6 dxc6 6. Qxd8+ Kxd8 7. Bg5 f6
+8. Bf4 Bg7 9. Nc3 Bh6 10. O-O-O+ Bd7 11. Bxh6 Nxh6 12. Bc4 Ng4 13. Rd2 Ne5 14.
+Be6 Rf8 15. f4 Kc7 16. Bxd7 Nxd7 17. Rhd1 Nc5 18. b4 Nxe4 19. Rd7+ Kb6 20. Nxe4
+f5 21. Nc5 Rab8 22. c4 Rfe8 23. a4 e5 24. a5# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "JlsRoman"]
+[Black "BoayJS"]
+[Result "0-1"]
+[WhiteElo "1018"]
+[BlackElo "1039"]
+[TimeControl "600"]
+[EndTime "7:35:05 PDT"]
+[Termination "BoayJS won by checkmate"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Na4 Bb6 6. Nxb6 axb6 7. f4 exf4 8.
+Bxf4 d6 9. Nf3 Bg4 10. O-O O-O 11. h3 Be6 12. Bxe6 fxe6 13. Be5 Nxe5 14. Nxe5
+dxe5 15. c3 c5 16. g4 Nd7 17. Rxf8+ Qxf8 18. d4 Rd8 19. dxc5 Nxc5 20. Qc2 Qf4
+21. b4 Nxe4 22. Rf1 Qg3+ 23. Qg2 Qe3+ 24. Kh1 Ng3+ 25. Kh2 Nxf1+ 26. Qxf1 Rd2+
+27. Kh1 Qf2 28. Qxf2 Rxf2 29. a4 e4 30. a5 bxa5 31. bxa5 e3 32. Kg1 Ra2 33. a6
+bxa6 34. c4 e2 35. Kf2 e5 36. c5 e4 37. c6 e3+ 38. Ke1 Rc2 39. c7 Rxc7 40. g5 h5
+41. gxh6 gxh6 42. h4 Rc4 43. h5 Rc5 44. Kxe2 Rxh5 45. Kxe3 Re5+ 46. Kd4 Re8 47.
+Kc4 h5 48. Kd3 h4 49. Kc2 h3 50. Kb2 h2 51. Ka3 a5 52. Ka4 Ra8 53. Ka3 h1=Q 54.
+Ka4 Rb8 55. Ka3 Qa1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.18"]
+[Round "-"]
+[White "BoayJS"]
+[Black "bean92120"]
+[Result "1/2-1/2"]
+[WhiteElo "1039"]
+[BlackElo "1046"]
+[TimeControl "600"]
+[EndTime "7:50:14 PDT"]
+[Termination "Game drawn - timeout vs insufficient material"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 d6 5. Nf3 Qe7 6. Nd4 Nc5 7. Qxe7+ Bxe7
+8. Nf5 Ne6 9. Nxe7 Kxe7 10. Nc3 Nd4 11. Nd5+ Kd7 12. Bd3 Rd8 13. Bxh7 Re8+ 14.
+Ne3 g6 15. O-O Rh8 16. c3 Ne2+ 17. Kh1 Rxh7 18. Nd5 Kc6 19. Nf6 Rh8 20. Re1 Nf4
+21. d4 Nd3 22. Re8 Rxe8 23. Nxe8 Be6 24. Be3 Nd7 25. Ng7 Re8 26. Nxe8 Bc4 27. b3
+Be6 28. c4 Nb4 29. d5+ Bxd5 30. cxd5+ Nxd5 31. Rc1+ Nc5 32. b4 Nxb4 33. Bxc5
+dxc5 34. a4 Nd3 35. Rd1 Nxf2+ 36. Kg1 Nxd1 37. Nf6 c4 38. Ne4 c3 39. Nf2 c2 40.
+Nd3 Kd5 41. Kf1 Kd4 42. Ke2 c5 43. Kd2 c4 44. Kxc2 cxd3+ 45. Kxd1 Kc3 46. g4 d2
+47. a5 b5 48. axb6 axb6 49. h4 b5 50. h5 gxh5 51. gxh5 b4 52. h6 b3 53. h7 b2
+54. h8=Q+ Kd3 55. Qxb2 f5 56. Qxd2+ Kc4 57. Qf2 Kd5 58. Qxf5+ Kc4 59. Ke2 Kd4
+60. Qe6 Kc5 61. Qd7 Kc4 62. Qd6 Kc3 63. Qd5 Kb4 64. Qc6 Kb3 65. Qc5 Kb2 66. Qc4
+Kb1 67. Qc3 Ka2 1/2-1/2
