@@ -1,0 +1,28 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "a lichess bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BJS324MC/bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "BJS324MC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BJS324MC/bot/issues"
+  },
+  "homepage": "https://github.com/BJS324MC/bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0",
+    "oboe": "^2.1.5"
+  }
+}
