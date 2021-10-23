@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+const fs = require('fs');
 
 const parsePgn = pgn => {
   let s1 = pgn.split("\n\n");
@@ -12,7 +12,6 @@ const parsePgn = pgn => {
   if (s1[s1.length - 1] === "\n") s1.pop();
   return s1
 }
-
 const filterLine = line => line.replace(/\d\./g, "").replace(/\n/g, " ").split(" ").map(b => b.trim()).filter(c => isNaN(Number(c))).slice(0, -1);
 
 const handleRandom = moves => {
@@ -20,8 +19,10 @@ const handleRandom = moves => {
   for (let i in moves) sum += moves[i]; sum *= Math.random();
   for (let i in moves) if ((sum2 += moves[i]) > sum) return i;
 }
-const createTable = (parsed) => {
-  const table = {};
+const createTable = urls => {
+  const table = {},
+    parsed = [];
+  urls.forEach(url => parsed.push(...getPgn(url)));
   for (const line of parsed) {
     let n = line[0];
     for (let i = 1 + n; i < line.length - 1; i += 2) {
@@ -37,4 +38,6 @@ const createTable = (parsed) => {
   return table;
 }
 
-const getPgn = async url => parsePgn(await (await fetch(url)).text());
+const getPgn = url => parsePgn(fs.readFileSync(`./pgn/${url}`,{encoding:'utf8', flag:'r'}));
+
+module.exports = { createTable, handleRandom };

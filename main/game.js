@@ -6,23 +6,18 @@ class Game {
     this.init();
   }
   init() {
-    this.engine.postMessage("setoption name Skill Level value 1")
-    this.engine.addMessageListener(e => {
-      console.log(this.fen);
-      const data = e.split(" ")
-      if (data[0] !== "bestmove") return;
-      let nextMove = data[1];
-      console.log(this.name + " as " + this.colour + " to move " + nextMove);
-      this.api.makeMove(this.gameId, nextMove);
-    })
+    this.engine.onmessage = move => {
+      console.log(`${this.name} as ${this.colour} to move ${move}`);
+      this.api.makeMove(this.gameId, move);
+    };
   }
   start(gameId) {
     this.gameId = gameId;
-    this.api.streamGame(gameId, (event) => this.handler(event));
+    this.api.streamGame(gameId, event => this.handler(event));
   }
   handleChatLine(event) {
     if (event.username !== this.name) {
-      const reply = this.engine.getReply(event);
+      const reply = "idk";
       if (reply) {
         this.api.chat(this.gameId, event.room, reply);
       }
@@ -50,28 +45,8 @@ class Game {
 
   playNextMove(previousMoves) {
     const moves = (previousMoves === "") ? [] : previousMoves.split(" ");
-    if (this.isTurn(this.colour, moves)) {
-      let dt = data[chess.history()];
-      if (!dt) {
-        let stockfish = this.engine;
-        stockfish.postMessage("position " + (this.fen === "startpos" ? "" : "fen ") + this.fen + " moves " + previousMoves);
-        stockfish.postMessage("go depth 5");
-        return;
-      }
-      let nextMove = chess.move(handleRandom(dt));
-      nextMove = nextMove.from + nextMove.to;
-      console.log("Table Move:" + nextMove);
-      console.log(this.name + " as " + this.colour + " to move " + nextMove);
-      this.api.makeMove(this.gameId, nextMove);
-    }
-  }
-  playEngine(previousMoves) {
-    const moves = (previousMoves === "") ? [] : previousMoves.split(" ");
-    if (this.isTurn(this.colour, moves)) {
-      let stockfish = this.engine;
-      stockfish.postMessage("position " + (this.fen === "startpos" ? "" : "fen ") + this.fen + " moves " + previousMoves);
-      stockfish.postMessage("go depth 12");
-    }
+    if (this.isTurn(this.colour, moves))
+      this.engine.message(this.fen, moves);
   }
   playingAs(event) {
     return (event.white.name === this.name) ? "white" : "black";
@@ -82,3 +57,4 @@ class Game {
     return (colour === "white") ? (parity === 0) : (parity === 1);
   }
 }
+module.exports = Game;

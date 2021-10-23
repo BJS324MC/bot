@@ -1,7 +1,9 @@
+const Game = require('./game.js');
+
 class Bot {
   constructor(api, engine) {
     this.api = api;
-    this.engine = enginePath;
+    this.engine = engine;
     this.start = this.start.bind(this);
     this.handleChallenge = this.handleChallenge.bind(this);
   }
@@ -26,7 +28,7 @@ class Bot {
   }
 
   handleGameStart(id) {
-    const game = new Game(this.api, this.account.username, new Worker(this.enginePath));
+    const game = new Game(this.api, this.account.username, new this.engine());
     game.start(id);
   }
 
@@ -43,3 +45,5 @@ class Bot {
     }
   }
 }
+
+module.exports = Bot;
