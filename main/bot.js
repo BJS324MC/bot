@@ -34,9 +34,9 @@ class Bot {
 
   async handleChallenge(challenge) {
     if (challenge.rated) {
-      console.log("Declining rated challenge from " + challenge.challenger.id);
-      const response = await this.api.decline(challenge.id);
-      console.log("Declined", response.data || response);
+      console.log("Accepting rated challenge from " + challenge.challenger.id);
+      const response = await this.api.accept(challenge.id);
+      console.log("Accepting", response.data || response);
     }
     else {
       console.log("Accepting unrated challenge from " + challenge.challenger.id);
