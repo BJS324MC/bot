@@ -11,7 +11,6 @@ class BjsBot {
                 const data = e.split(" ");
                 if (data[0] === "bestmove") this.onmessage(data[1]);
             });
-            stockfish.postMessage("setoption name Skill Level value 1");
         });
         this.chess = new Chess();
         this.book = createTable(
@@ -35,7 +34,7 @@ class BjsBot {
         }
         else {
             stockfish.postMessage(`position ${fen === "startpos" ? "" : "fen "}${fen} moves ${moves.join(" ")}`);
-            stockfish.postMessage("go depth 5");
+            stockfish.postMessage("go depth 15");
         }
     }
 }
