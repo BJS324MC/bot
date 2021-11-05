@@ -17,9 +17,10 @@ class Game {
   }
   handleChatLine(event) {
     if (event.username !== this.name) {
-      const reply = "idk";
+      const reply = this.engine.getReply(event.text);
+      console.log(reply);
       if (reply) {
-        this.api.chat(this.gameId, event.room, reply);
+        this.api.chat(this.gameId, event.room, reply).then(console.log);
       }
     }
   }

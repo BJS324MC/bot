@@ -33,9 +33,12 @@ class BjsBot {
             this.onmessage(nextMove.from + nextMove.to);
         }
         else {
-            stockfish.postMessage(`position ${fen === "startpos" ? "" : "fen "}${fen} moves ${moves.join(" ")} wtime ${wtime} btime ${btime}`);
-            stockfish.postMessage("go depth 15");
+            stockfish.postMessage(`position ${fen === "startpos" ? "" : "fen "}${fen} moves ${moves.join(" ")}`);
+            stockfish.postMessage(`go wtime ${wtime} btime ${btime}`);
         }
+    }
+    getReply(msg){
+      return "haha you said " + msg.split('').reverse().join('');
     }
 }
 
