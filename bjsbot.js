@@ -23,7 +23,7 @@ class BjsBot {
                 "chess.com/4.pgn"]
         );
     }
-    message(fen, moves) {
+    message(fen, moves, wtime, btime) {
         const { stockfish, chess, book } = this;
         chess.load(fen);
         moves.forEach(move => this.chess.move(move, { sloppy: true }));
@@ -33,7 +33,7 @@ class BjsBot {
             this.onmessage(nextMove.from + nextMove.to);
         }
         else {
-            stockfish.postMessage(`position ${fen === "startpos" ? "" : "fen "}${fen} moves ${moves.join(" ")}`);
+            stockfish.postMessage(`position ${fen === "startpos" ? "" : "fen "}${fen} moves ${moves.join(" ")} wtime ${wtime} btime ${btime}`);
             stockfish.postMessage("go depth 15");
         }
     }

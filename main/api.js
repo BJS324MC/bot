@@ -11,7 +11,7 @@ class API {
         "Authorization": `Bearer ${this.token}`
       },
       method: "GET"
-    }).then(a => this.lar(a)).catch(e => console.log(e));
+    }).catch(e => console.error(e));
   }
   post(url) {
     return fetch(`https://lichess.org/api/${url}`, {
@@ -19,7 +19,7 @@ class API {
         "Authorization": `Bearer ${this.token}`
       },
       method: "POST"
-    }).then(a => this.lar(a)).catch(e => console.log(e));
+    }).catch(e => console.error(e));
   }
   accept(challengeId) {
     return this.post(`challenge/${challengeId}/accept`);
@@ -50,10 +50,6 @@ class API {
       room,
       text
     });
-  }
-  lar(a) {
-    console.log(JSON.stringify(a));
-    return a;
   }
   stream(url, handler) {
     console.log(`GET ${url} stream`);

@@ -7,7 +7,7 @@ class Game {
   }
   init() {
     this.engine.onmessage = move => {
-      console.log(`${this.name} as ${this.colour} to move ${move}`);
+      console.log(`${this.name} as ${this.colour} played ${move}`);
       this.api.makeMove(this.gameId, move);
     };
   }
@@ -32,21 +32,21 @@ class Game {
       case "gameFull":
         this.colour = this.playingAs(event);
         this.fen = event.initialFen;
-        this.playNextMove(event.state.moves);
+        this.playNextMove(event.state.moves,event.state.wtime,event.state.btime);
         break;
       case "gameState":
         console.log(event);
-        this.playNextMove(event.moves);
+        this.playNextMove(event.moves,event.wtime,event.btime);
         break;
       default:
         console.log("Unhandled game event : " + JSON.stringify(event));
     }
   }
 
-  playNextMove(previousMoves) {
+  playNextMove(previousMoves,wtime,btime) {
     const moves = (previousMoves === "") ? [] : previousMoves.split(" ");
     if (this.isTurn(this.colour, moves))
-      this.engine.message(this.fen, moves);
+      this.engine.message(this.fen, moves, wtime, btime);
   }
   playingAs(event) {
     return (event.white.name === this.name) ? "white" : "black";
