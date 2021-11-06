@@ -12,7 +12,7 @@ class API {
         "Authorization": `Bearer ${this.token}`
       },
       method: "GET"
-    }).catch(e => console.error('GETERR:'+e));
+    }).catch(e => console.error('GET '+e));
   }
   post(url,options = {}) {
     return axios({
@@ -22,7 +22,7 @@ class API {
       },
       data: options,
       method: "POST"
-    }).catch(e => console.error('POSTERR:'+e));
+    }).catch(e => console.error('POST '+e));
   }
   accept(challengeId) {
     return this.post(`challenge/${challengeId}/accept`);

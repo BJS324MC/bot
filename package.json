@@ -27,8 +27,5 @@
     "express": "^4.17.1",
     "oboe": "^2.1.5",
     "stockfish-nnue.wasm": "^1.0.0-1946a675.smolnet"
-  },
-  "engines": {
-    "node": "17.x"
   }
 }
