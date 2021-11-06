@@ -8,7 +8,7 @@ class Bot {
     this.handleChallenge = this.handleChallenge.bind(this);
   }
   async start() {
-    this.account = await (await this.api.accountInfo()).json();
+    this.account = (await this.api.accountInfo()).data;
     console.log("Playing as " + this.account.username);
     this.api.streamEvents(event => this.eventHandler(event));
     return this.account;
@@ -23,7 +23,7 @@ class Bot {
         this.handleGameStart(event.game.id);
         break;
       default:
-        console.log("Unhandled event : " + JSON.stringify(event));
+        console.log("Unhandled event");
     }
   }
 

@@ -18,10 +18,7 @@ class Game {
   handleChatLine(event) {
     if (event.username !== this.name) {
       const reply = this.engine.getReply(event.text);
-      console.log(reply);
-      if (reply) {
-        this.api.chat(this.gameId, event.room, reply).then(console.log);
-      }
+      if (reply) this.api.chat(this.gameId, event.room, reply);
     }
   }
 
@@ -36,11 +33,10 @@ class Game {
         this.playNextMove(event.state.moves,event.state.wtime,event.state.btime);
         break;
       case "gameState":
-        console.log(event);
         this.playNextMove(event.moves,event.wtime,event.btime);
         break;
       default:
-        console.log("Unhandled game event : " + JSON.stringify(event));
+        console.log("Unhandled game event");
     }
   }
 

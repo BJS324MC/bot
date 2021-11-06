@@ -1,4 +1,4 @@
-const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
+const axios = require("axios");
 const oboe = require("oboe");
 
 class API {
@@ -6,20 +6,23 @@ class API {
     this.token = token;
   }
   get(url) {
-    return fetch(`https://lichess.org/api/${url}`, {
+    return axios({
+      url:`https://lichess.org/api/${url}`,
       headers: {
         "Authorization": `Bearer ${this.token}`
       },
       method: "GET"
-    }).catch(e => console.error(e));
+    }).catch(e => console.error('GETERR:'+e));
   }
-  post(url) {
-    return fetch(`https://lichess.org/api/${url}`, {
+  post(url,options = {}) {
+    return axios({
+      url:`https://lichess.org/api/${url}`,
       headers: {
         "Authorization": `Bearer ${this.token}`
       },
+      data: options,
       method: "POST"
-    }).catch(e => console.error(e));
+    }).catch(e => console.error('POSTERR:'+e));
   }
   accept(challengeId) {
     return this.post(`challenge/${challengeId}/accept`);
@@ -52,7 +55,6 @@ class API {
     });
   }
   stream(url, handler) {
-    console.log(`GET ${url} stream`);
     oboe({
       method: "GET",
       url: `https://lichess.org/api/${url}`,
@@ -61,7 +63,7 @@ class API {
       }
     })
       .node("!", data => {
-        console.log(`STREAM data : ${JSON.stringify(data)}`);
+        console.log(`STREAM data :`,data);
         handler(data);
       }).fail(errorReport => console.error(JSON.stringify(errorReport)));
   }
